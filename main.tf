@@ -58,3 +58,4 @@ resource "azurerm_network_security_rule" "nsg_rule" {
   network_security_group_name = azurerm_network_security_group.nsg.name
 }
 
+
